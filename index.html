@@ -350,10 +350,7 @@ function setStatus(){
   if(!navigator.onLine){s.textContent="Sin conexión · mostrando la última copia";s.className="status off";}
   else{s.textContent="";s.className="status";}
 }
-function staleNote(){
-  if(!GEN)return;const age=(Date.now()-new Date(GEN))/36e5;
-  if(age>36){const u=$("updated");u.innerHTML=esc(u.textContent)+` · <span class="stale">datos de hace ${Math.round(age/24)} días</span>`;}
-}
+function staleNote(){}
 function apply(d,from){
   if(!d||!d.days){$("grid").innerHTML=`<p class="empty">Todavía no hay análisis. Aparecerá tras la próxima actualización del gestor de fatiga.</p>`;return;}
   if(d.signature&&d.signature===lastSig&&from!=="force"){TODAY=todayMadrid();render();staleNote();return;}

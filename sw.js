@@ -2,7 +2,7 @@
    - App (HTML, iconos, manifiesto): caché y se actualiza en segundo plano.
    - data.json: siempre de la red; si no hay conexión, la última copia guardada.
    - Fuentes de Google: caché tras la primera carga. */
-const VERSION = "v1";
+const VERSION = "v2";
 const SHELL = `shell-${VERSION}`;
 const DATA = "data";
 const FONTS = "fonts";
