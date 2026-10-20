@@ -1,1052 +1,1016 @@
 {
-  "days": {
-    "2026-10-15": {
-      "air": [
-        "Si te activan, briefing de fatiga."
-      ],
-      "ground": [
-        "Cama a las 21:30 los días 14 y 15."
-      ],
-      "l": "y",
-      "peaks": [
-        "05:15–07:00: si te activan, inercia del sueño."
-      ],
-      "sby": [
-        "05:15",
-        "17:15"
-      ],
-      "t": "sby",
-      "title": "Imaginaria (SBY)",
-      "why": "Imaginaria desde las 05:15L, al final de la WOCL. Mañana firmas a las 06:45L.",
-      "z": "0315Z–1515Z"
-    },
-    "2026-10-16": {
-      "air": [
-        "Café al firmar y otro antes del TOD de GRX-PMI (≈15:05L)."
-      ],
-      "ci": "06:45",
-      "co": "15:57",
-      "duty": "9h12",
-      "fdp": "8h52",
-      "ground": [
-        "Tras el vuelo, siesta de 20 min antes de las 17:00. Mañana eLearning a las 09:00."
-      ],
-      "l": "y",
-      "max": "12h00",
-      "peaks": [
-        "06:45–07:45: inercia del sueño en PMI-BIO.",
-        "14:20–15:37: último sector GRX-PMI."
-      ],
-      "sec": [
-        [
-          "PMI-BIO",
-          "VY3939",
-          "07:19",
-          "08:43"
-        ],
-        [
-          "BIO-PMI",
-          "VY3938",
-          "10:29",
-          "11:54"
-        ],
-        [
-          "PMI-GRX",
-          "VY3929",
-          "12:29",
-          "13:49"
-        ],
-        [
-          "GRX-PMI",
-          "VY3928",
-          "14:20",
-          "15:37"
-        ]
-      ],
-      "t": "fly",
-      "title": "PMI BIO PMI GRX PMI",
-      "why": "Segundo despertar temprano tras la imaginaria del 15. 4 sectores y más de 9 h de actividad.",
-      "z": "0445Z–1357Z"
-    },
-    "2026-10-17": {
-      "air": [],
-      "gnd": [
-        "09:00",
-        "11:00"
-      ],
-      "ground": [
-        "Mañana imaginaria desde las 04:00L: cama a las 21:00."
-      ],
-      "l": "g",
-      "peaks": [],
-      "t": "ground",
-      "title": "eLearning - AWO - LMSH",
-      "why": "Actividad en tierra de 2 h. Cuenta como actividad pero no genera fatiga relevante.",
-      "z": "0700Z–0900Z"
-    },
-    "2026-10-18": {
-      "air": [
-        "Si te activan, briefing de fatiga."
-      ],
-      "ground": [
-        "Si no te activan, el 19 (libre) empieza a retrasar el sueño: cama hacia las 00:00, levantarse hacia las 08:30."
-      ],
-      "l": "y",
-      "peaks": [
-        "04:00–07:00: si te activan, WOCL e inercia."
-      ],
-      "sby": [
-        "04:00",
-        "16:00"
-      ],
-      "t": "sby",
-      "title": "Imaginaria (SBY)",
-      "why": "Imaginaria desde las 04:00L en plena WOCL. Tras ella cambias a un bloque de tardes y noches.",
-      "z": "0200Z–1400Z"
-    },
-    "2026-10-20": {
-      "air": [
-        "Sin medidas especiales."
-      ],
-      "ci": "14:30",
-      "co": "19:35",
-      "duty": "5h05",
-      "fdp": "4h45",
-      "ground": [
-        "Acuéstate hacia la 01:00 y levántate hacia las 09:30: es el horario que te va a servir hasta el 24."
-      ],
-      "l": "g",
-      "max": "12h15",
-      "peaks": [
-        "18:30–19:15: bajón leve."
-      ],
-      "sec": [
-        [
-          "PMI-OVD",
-          "VY3864",
-          "15:15",
-          "17:00"
-        ],
-        [
-          "OVD-PMI",
-          "VY3865",
-          "17:35",
-          "19:15"
-        ]
-      ],
-      "t": "fly",
-      "title": "PMI OVD PMI",
-      "why": "Tarde corta. Buen día para empezar a retrasar el horario de sueño para los tres días siguientes.",
-      "z": "1230Z–1735Z"
-    },
-    "2026-10-21": {
-      "air": [
-        "Café hacia las 21:45, no más tarde.",
-        "Descanso controlado solo si lo permite el procedimiento de la compañía y lo acordáis con el CM: crucero PMI-SVQ, máx. 30–40 min, terminando ≥30 min antes del TOD."
-      ],
-      "ci": "14:20",
-      "co": "00:35",
-      "coNext": true,
-      "duty": "10h15",
-      "fdp": "9h55",
-      "ground": [
-        "Siesta de 45–60 min entre las 12:00 y las 13:00.",
-        "Cama en cuanto llegues; duerme hasta las 09:30–10:00."
-      ],
-      "l": "y",
-      "max": "11h30",
-      "peaks": [
-        "23:00–00:15: aproximación SVQ-PMI.",
-        "00:35–01:10: conducción."
-      ],
-      "sec": [
-        [
-          "PMI-ORY",
-          "VY6943",
-          "15:05",
-          "17:10"
-        ],
-        [
-          "ORY-PMI",
-          "VY6942",
-          "17:50",
-          "19:45"
-        ],
-        [
-          "PMI-SVQ",
-          "VY3946",
-          "20:30",
-          "22:05"
-        ],
-        [
-          "SVQ-PMI",
-          "VY3947",
-          "22:40",
-          "00:15"
-        ]
-      ],
-      "t": "fly",
-      "title": "PMI ORY PMI SVQ PMI",
-      "why": "Primer late finish del bloque, 10h15 de actividad y 4 sectores. Con el sueño ya retrasado, el riesgo es moderado.",
-      "z": "1220Z–2235Z"
-    },
-    "2026-10-22": {
-      "air": [
-        "Café hacia las 21:30 como tarde."
-      ],
-      "ci": "15:45",
-      "co": "00:00",
-      "coNext": true,
-      "duty": "8h15",
-      "fdp": "7h55",
-      "ground": [
-        "Mismo horario: cama hacia la 01:00, levantarse hacia las 09:30. Siesta corta antes de firmar si te notas cargado."
-      ],
-      "l": "y",
-      "max": "10h45",
-      "peaks": [
-        "22:45–23:40: aproximación AGP-PMI."
-      ],
-      "sec": [
-        [
-          "PMI-BCN",
-          "VY3911",
-          "16:30",
-          "17:30"
-        ],
-        [
-          "BCN-PMI",
-          "VY3910",
-          "18:15",
-          "19:10"
-        ],
-        [
-          "PMI-AGP",
-          "VY3151",
-          "19:50",
-          "21:30"
-        ],
-        [
-          "AGP-PMI",
-          "VY3150",
-          "22:10",
-          "23:40"
-        ]
-      ],
-      "t": "fly",
-      "title": "PMI BCN PMI AGP PMI",
-      "why": "Segundo día seguido terminando a medianoche, 4 sectores. Actividad algo más corta que ayer.",
-      "z": "1345Z–2200Z"
-    },
-    "2026-10-23": {
-      "air": [
-        "Café al firmar y otro hacia las 21:45, antes de salir de OVD. Nada después.",
-        "Descanso controlado solo si lo permite el procedimiento de la compañía y lo acordáis con el CM: crucero PMI-OVD, máx. 30–40 min, terminando ≥30 min antes del TOD.",
-        "Luz alta en cabina y briefing de amenazas con la fatiga incluida."
-      ],
-      "ci": "14:45",
-      "co": "00:25",
-      "coNext": true,
-      "duty": "9h40",
-      "fdp": "9h20",
-      "ground": [
-        "Oscuridad total y tapones: protege las 8 h de sueño de las noches del 21 al 24.",
-        "Siesta de 60–90 min entre las 12:00 y las 13:30.",
-        "El 24 firmas a las 15:00: duerme hasta tarde. El 25 cambia la hora (UTC+1)."
-      ],
-      "l": "r",
-      "max": "11h15",
-      "peaks": [
-        "16:00–17:00: bajón de media tarde en PMI-XRY.",
-        "22:30–00:05: pico del día. Sector OVD-PMI y aproximación a Palma.",
-        "00:25–01:00: conducción."
-      ],
-      "sec": [
-        [
-          "PMI-XRY",
-          "VY3153",
-          "15:30",
-          "17:15"
-        ],
-        [
-          "XRY-PMI",
-          "VY3154",
-          "17:50",
-          "19:25"
-        ],
-        [
-          "PMI-OVD",
-          "VY3864",
-          "20:00",
-          "21:50"
-        ],
-        [
-          "OVD-PMI",
-          "VY3865",
-          "22:25",
-          "00:05"
-        ]
-      ],
-      "t": "fly",
-      "title": "PMI XRY PMI OVD PMI",
-      "why": "Tercer late finish seguido, cuarto día de actividad consecutivo y 4 sectores. La deuda de sueño y el retraso circadiano se acumulan.",
-      "z": "1245Z–2225Z"
-    },
-    "2026-10-24": {
-      "air": [
-        "Sin medidas especiales, salvo café antes del TOD si lo necesitas."
-      ],
-      "ci": "15:00",
-      "co": "20:45",
-      "duty": "5h45",
-      "fdp": "5h25",
-      "ground": [
-        "Esta noche cambia la hora. Usa los días siguientes para volver a tu horario normal con luz natural por la mañana."
-      ],
-      "l": "y",
-      "max": "12h00",
-      "peaks": [
-        "19:30–20:25: bajón en la vuelta."
-      ],
-      "sec": [
-        [
-          "PMI-ORY",
-          "VY6943",
-          "15:45",
-          "17:50"
-        ],
-        [
-          "ORY-PMI",
-          "VY6942",
-          "18:30",
-          "20:25"
-        ]
-      ],
-      "t": "fly",
-      "title": "PMI ORY PMI",
-      "why": "Actividad corta, pero es el quinto día seguido (20–24) y llegas tras tres noches tardías.",
-      "z": "1300Z–1845Z"
-    },
-    "2026-11-01": {
-      "air": [
-        "Café al despertar y otro ≈30 min antes del TOD de XRY-PMI (≈14:25L). Nada después de las 15:00.",
-        "Descanso controlado solo si lo permite el procedimiento de la compañía y lo acordáis con el CM: crucero PMI-XRY, máx. 30–40 min, terminando ≥30 min antes del TOD.",
-        "Luz alta en cabina y fatiga en el briefing TEM."
-      ],
-      "ci": "06:00",
-      "co": "15:15",
-      "duty": "9h15",
-      "fdp": "8h55",
-      "ground": [
-        "Cama a las 21:00 el día 31. Adelanta la hora de acostarte 30–60 min los días 30 y 31.",
-        "Tras el vuelo: siesta de 20 o 90 min, siempre antes de las 17:00.",
-        "Luz natural por la tarde y oscuridad total por la noche."
-      ],
-      "l": "y",
-      "max": "12h00",
-      "peaks": [
-        "04:30–06:30: despertar en WOCL e inercia del sueño.",
-        "13:20–14:55: último sector XRY-PMI, bajón posprandial."
-      ],
-      "sec": [
-        [
-          "PMI-SVQ",
-          "VY3980",
-          "06:45",
-          "08:20"
-        ],
-        [
-          "SVQ-PMI",
-          "VY3981",
-          "08:55",
-          "10:30"
-        ],
-        [
-          "PMI-XRY",
-          "VY3990",
-          "11:05",
-          "12:45"
-        ],
-        [
-          "XRY-PMI",
-          "VY3991",
-          "13:20",
-          "14:55"
-        ]
-      ],
-      "t": "fly",
-      "title": "PMI SVQ PMI XRY PMI",
-      "why": "Firma a las 06:00 con 4 sectores y más de 9 h. Primer servicio tras una semana libre y tras el cambio de hora del 25: el cuerpo ya está en horario de invierno, pero el despertar (≈04:30) cae en WOCL.",
-      "z": "0500Z–1415Z"
-    },
-    "2026-11-06": {
-      "air": [
-        "Si te activan: café al firmar y nada en las 6 h previas a dormir."
-      ],
-      "ground": [
-        "Duerme hasta que despiertes. Siesta profiláctica de 60–90 min hacia las 14:00 por si te activan para la tarde."
-      ],
-      "l": "g",
-      "peaks": [
-        "15:00–17:00: bajón de media tarde si te activan."
-      ],
-      "sby": [
-        "10:00",
-        "22:00"
-      ],
-      "t": "sby",
-      "title": "Imaginaria (SBY)",
-      "why": "Imaginaria de 10:00 a 22:00. Sin madrugón; posible activación hasta tarde.",
-      "z": "0900Z–2100Z"
-    },
-    "2026-11-07": {
-      "air": [
-        "Un café al firmar basta."
-      ],
-      "ci": "13:50",
-      "co": "17:25",
-      "duty": "3h35",
-      "fdp": "3h15",
-      "ground": [
-        "Cena temprano y cama a las 22:00: el 9 firmas a las 06:50."
-      ],
-      "l": "g",
-      "max": "12h45",
-      "peaks": [
-        "15:00–16:00: bajón de media tarde en BCN."
-      ],
-      "sec": [
-        [
-          "PMI-BCN",
-          "VY3933",
-          "14:35",
-          "15:25"
-        ],
-        [
-          "BCN-PMI",
-          "VY3932",
-          "16:15",
-          "17:05"
-        ]
-      ],
-      "t": "fly",
-      "title": "PMI BCN PMI",
-      "why": "Firma a las 13:50, 2 sectores cortos y menos de 4 h.",
-      "z": "1250Z–1625Z"
-    },
-    "2026-11-09": {
-      "air": [
-        "Café al despertar y otro ≈30 min antes del TOD de SCQ-PMI (≈14:55L). Nada después de las 15:30.",
-        "Descanso controlado solo si lo permite el procedimiento de la compañía y lo acordáis con el CM: crucero SCQ-PMI, máx. 30–40 min, terminando ≥30 min antes del TOD.",
-        "Fatiga en el briefing TEM."
-      ],
-      "ci": "06:50",
-      "co": "15:45",
-      "duty": "8h55",
-      "fdp": "8h35",
-      "ground": [
-        "Cama a las 21:30 el día 8.",
-        "Tras el vuelo: siesta de 20 min antes de las 17:00 y cama a las 21:00: mañana firmas a las 06:20."
-      ],
-      "l": "y",
-      "max": "12h00",
-      "peaks": [
-        "05:20–07:00: despertar e inercia del sueño.",
-        "13:35–15:25: último sector SCQ-PMI, el más largo del día."
-      ],
-      "sec": [
-        [
-          "PMI-VLC",
-          "VY3984",
-          "07:35",
-          "08:30"
-        ],
-        [
-          "VLC-PMI",
-          "VY3985",
-          "09:05",
-          "10:00"
-        ],
-        [
-          "PMI-SCQ",
-          "VY3972",
-          "11:05",
-          "13:00"
-        ],
-        [
-          "SCQ-PMI",
-          "VY3973",
-          "13:35",
-          "15:25"
-        ]
-      ],
-      "t": "fly",
-      "title": "PMI VLC PMI SCQ PMI",
-      "why": "Firma a las 06:50 con 4 sectores tras un solo día libre (8). Primer madrugón de tres despertares tempranos seguidos (9, 10 y 11).",
-      "z": "0550Z–1445Z"
-    },
-    "2026-11-10": {
-      "air": [
-        "Café al despertar y otro antes del TOD de BIO-PMI (≈09:55L). Nada después de las 13:00."
-      ],
-      "ci": "06:20",
-      "co": "10:45",
-      "duty": "4h25",
-      "fdp": "4h05",
-      "ground": [
-        "Tras el vuelo: siesta de 90 min entre las 12:00 y las 14:00.",
-        "Cena antes de las 19:30 y cama a las 20:00: mañana imaginaria desde las 04:25."
-      ],
-      "l": "y",
-      "max": "13h00",
-      "peaks": [
-        "04:50–06:30: despertar en WOCL.",
-        "09:05–10:25: regreso BIO-PMI."
-      ],
-      "sec": [
-        [
-          "PMI-BIO",
-          "VY3890",
-          "07:05",
-          "08:30"
-        ],
-        [
-          "BIO-PMI",
-          "VY3891",
-          "09:05",
-          "10:25"
-        ]
-      ],
-      "t": "fly",
-      "title": "PMI BIO PMI",
-      "why": "Segundo despertar temprano seguido (firma 06:20) y víspera de una imaginaria a las 04:25, que será el tercero. Solo 2 sectores.",
-      "z": "0520Z–0945Z"
-    },
-    "2026-11-11": {
-      "air": [
-        "Si te activan: café al firmar y otro ≈30 min antes del TOD del último sector. Nada después de las 14:00.",
-        "Descanso controlado solo si lo permite el procedimiento de la compañía y lo acordáis con el CM: en el crucero más largo, máx. 30–40 min, terminando ≥30 min antes del TOD.",
-        "Comunica tu nivel de fatiga en el briefing TEM."
-      ],
-      "ground": [
-        "Cama a las 20:00 el día 10, móvil fuera del dormitorio.",
-        "Si no te activan a primera hora: siesta de 90 min antes de las 11:00, con el teléfono a mano.",
-        "Luz fuerte al despertar. Días 12 y 13 libres: duerme sin despertador."
-      ],
-      "l": "r",
-      "peaks": [
-        "03:55–06:00: despertar en WOCL.",
-        "Si te activan: los sectores entre las 13:00 y las 16:00, con más de 9 h despierto.",
-        "Conducción de vuelta a casa tras una activación."
-      ],
-      "sby": [
-        "04:25",
-        "16:25"
-      ],
-      "t": "sby",
-      "title": "Imaginaria (SBY)",
-      "why": "Tercer despertar de madrugada seguido (9 a las 06:50, 10 a las 06:20 y hoy imaginaria desde las 04:25, en plena WOCL). Si te activan temprano, volarías con deuda de sueño acumulada.",
-      "z": "0325Z–1525Z"
-    },
-    "2026-11-14": {
-      "air": [
-        "Café al despertar y otro ≈30 min antes del TOD de VLC-PMI (≈13:15L). Nada después de las 15:00.",
-        "Fatiga en el briefing TEM."
-      ],
-      "ci": "06:00",
-      "co": "14:05",
-      "duty": "8h05",
-      "fdp": "7h45",
-      "ground": [
-        "Cama a las 21:00 el día 13.",
-        "Tras el vuelo: siesta de 20 min antes de las 17:00. Cama a las 21:00: mañana firmas a las 06:00."
-      ],
-      "l": "y",
-      "max": "12h00",
-      "peaks": [
-        "04:30–06:30: despertar en WOCL.",
-        "12:50–13:45: último sector VLC-PMI."
-      ],
-      "sec": [
-        [
-          "PMI-AGP",
-          "VY3880",
-          "06:45",
-          "08:15"
-        ],
-        [
-          "AGP-PMI",
-          "VY3881",
-          "08:55",
-          "10:25"
-        ],
-        [
-          "PMI-VLC",
-          "VY3984",
-          "11:20",
-          "12:15"
-        ],
-        [
-          "VLC-PMI",
-          "VY3985",
-          "12:50",
-          "13:45"
-        ]
-      ],
-      "t": "fly",
-      "title": "PMI AGP PMI VLC PMI",
-      "why": "Firma a las 06:00 con 4 sectores. Primero de tres madrugones seguidos (14, 15 y 16).",
-      "z": "0500Z–1305Z"
-    },
-    "2026-11-15": {
-      "air": [
-        "Café al despertar y otro ≈30 min antes del TOD de XRY-PMI (≈14:25L). Nada después de las 15:00.",
-        "Descanso controlado solo si lo permite el procedimiento de la compañía y lo acordáis con el CM: crucero PMI-XRY, máx. 30–40 min, terminando ≥30 min antes del TOD."
-      ],
-      "ci": "06:00",
-      "co": "15:15",
-      "duty": "9h15",
-      "fdp": "8h55",
-      "ground": [
-        "Cama a las 21:00 el día 14.",
-        "Tras el vuelo: siesta de 20 min antes de las 17:00. Cena temprano y cama a las 20:30."
-      ],
-      "l": "y",
-      "max": "12h00",
-      "peaks": [
-        "04:30–06:30: despertar en WOCL.",
-        "13:20–14:55: último sector XRY-PMI."
-      ],
-      "sec": [
-        [
-          "PMI-SVQ",
-          "VY3980",
-          "06:45",
-          "08:20"
-        ],
-        [
-          "SVQ-PMI",
-          "VY3981",
-          "08:55",
-          "10:30"
-        ],
-        [
-          "PMI-XRY",
-          "VY3990",
-          "11:05",
-          "12:45"
-        ],
-        [
-          "XRY-PMI",
-          "VY3991",
-          "13:20",
-          "14:55"
-        ]
-      ],
-      "t": "fly",
-      "title": "PMI SVQ PMI XRY PMI",
-      "why": "Segundo madrugón seguido (firma 06:00) con 4 sectores y más de 9 h. Víspera de un día rojo.",
-      "z": "0500Z–1415Z"
-    },
-    "2026-11-16": {
-      "air": [
-        "Café al despertar y otro ≈30 min antes del TOD de AGP-PMI (≈09:55L). Nada después de las 13:00.",
-        "Descanso controlado solo si lo permite el procedimiento de la compañía y lo acordáis con el CM: crucero AGP-PMI, máx. 30–40 min, terminando ≥30 min antes del TOD.",
-        "Fatiga como amenaza principal en el briefing TEM."
-      ],
-      "ci": "06:00",
-      "co": "10:45",
-      "duty": "4h45",
-      "fdp": "4h25",
-      "ground": [
-        "Cama a las 20:30 el día 15, oscuridad total.",
-        "Tras el vuelo: siesta de 90 min antes de las 14:00. Días 17 y 18 libres: recupera sueño sin despertador.",
-        "Si notas microsueños al volante, para y duerme 15 min."
-      ],
-      "l": "r",
-      "max": "13h00",
-      "peaks": [
-        "04:30–06:30: despertar en WOCL.",
-        "08:55–10:25: regreso AGP-PMI y aproximación a Palma.",
-        "10:45–11:30: conducción a casa."
-      ],
-      "sec": [
-        [
-          "PMI-AGP",
-          "VY3880",
-          "06:45",
-          "08:15"
-        ],
-        [
-          "AGP-PMI",
-          "VY3881",
-          "08:55",
-          "10:25"
-        ]
-      ],
-      "t": "fly",
-      "title": "PMI AGP PMI",
-      "why": "Tercer despertar de madrugada seguido (firmas a las 06:00 el 14, 15 y 16). Aunque solo hay 2 sectores, la deuda de sueño acumulada es alta.",
-      "z": "0500Z–0945Z"
-    },
-    "2026-11-19": {
-      "air": [
-        "Café al firmar y otro hacia las 21:45, antes de salir de BIO. Nada después.",
-        "Descanso controlado solo si lo permite el procedimiento de la compañía y lo acordáis con el CM: crucero PMI-GRX o PMI-BIO, máx. 30–40 min, terminando ≥30 min antes del TOD."
-      ],
-      "ci": "16:15",
-      "co": "00:25",
-      "coNext": true,
-      "duty": "8h10",
-      "fdp": "7h50",
-      "ground": [
-        "Duerme hasta tarde. Siesta profiláctica de 60–90 min entre las 13:00 y las 14:30.",
-        "Al llegar, luz tenue y a la cama sin pantallas."
-      ],
-      "l": "y",
-      "max": "10h30",
-      "peaks": [
-        "16:00–17:00: bajón de media tarde.",
-        "22:50–00:05: último sector BIO-PMI y aproximación a Palma.",
-        "00:25–01:00: conducción."
-      ],
-      "sec": [
-        [
-          "PMI-GRX",
-          "VY3962",
-          "17:00",
-          "18:25"
-        ],
-        [
-          "GRX-PMI",
-          "VY3963",
-          "19:00",
-          "20:15"
-        ],
-        [
-          "PMI-BIO",
-          "VY3894",
-          "20:50",
-          "22:10"
-        ],
-        [
-          "BIO-PMI",
-          "VY3895",
-          "22:50",
-          "00:05"
-        ]
-      ],
-      "t": "fly",
-      "title": "PMI GRX PMI BIO PMI",
-      "why": "Late finish (fin 00:25) con 4 sectores, aislado tras dos días libres.",
-      "z": "1515Z–2325Z"
-    },
-    "2026-11-20": {
-      "air": [
-        "Café al firmar y otro hacia las 21:45, antes de salir de BIO. Nada después.",
-        "Descanso controlado solo si lo permite el procedimiento de la compañía y lo acordáis con el CM: crucero PMI-SCQ, máx. 30–40 min, terminando ≥30 min antes del TOD.",
-        "Luz alta en cabina y fatiga en el briefing TEM."
-      ],
-      "ci": "15:10",
-      "co": "00:25",
-      "coNext": true,
-      "duty": "9h15",
-      "fdp": "8h55",
-      "ground": [
-        "Duerme hasta las 09:00–09:30. Siesta profiláctica de 60–90 min entre las 12:30 y las 13:45.",
-        "Oscuridad total y tapones al acostarte."
-      ],
-      "l": "y",
-      "max": "11h00",
-      "peaks": [
-        "15:30–17:00: bajón de media tarde en PMI-SCQ.",
-        "22:50–00:05: último sector BIO-PMI.",
-        "00:25–01:00: conducción."
-      ],
-      "sec": [
-        [
-          "PMI-SCQ",
-          "VY3976",
-          "15:55",
-          "17:50"
-        ],
-        [
-          "SCQ-PMI",
-          "VY3977",
-          "18:30",
-          "20:15"
-        ],
-        [
-          "PMI-BIO",
-          "VY3894",
-          "20:50",
-          "22:10"
-        ],
-        [
-          "BIO-PMI",
-          "VY3895",
-          "22:50",
-          "00:05"
-        ]
-      ],
-      "t": "fly",
-      "title": "PMI SCQ PMI BIO PMI",
-      "why": "Segundo late finish seguido (fin 00:25) con 4 sectores y 9h15 de actividad.",
-      "z": "1410Z–2325Z"
-    },
-    "2026-11-21": {
-      "air": [],
-      "gnd": [
-        "15:00",
-        "16:15"
-      ],
-      "ground": [
-        "Duerme sin despertador. Días 22 y 23 libres: adelanta poco a poco la hora de acostarte, el 24 firmas a las 06:00."
-      ],
-      "l": "g",
-      "peaks": [
-        "15:00–16:15: somnolencia tras dos noches cortas."
-      ],
-      "t": "ground",
-      "title": "LMPB - LMRM",
-      "why": "Actividad en tierra corta (15:00–16:15) tras dos late finish. Carga baja.",
-      "z": "1400Z–1515Z"
-    },
-    "2026-11-24": {
-      "air": [
-        "Café al despertar y otro ≈30 min antes del TOD de SCQ-PMI (≈14:55L). Nada después de las 15:30.",
-        "Descanso controlado solo si lo permite el procedimiento de la compañía y lo acordáis con el CM: crucero SCQ-PMI, máx. 30–40 min, terminando ≥30 min antes del TOD."
-      ],
-      "ci": "06:00",
-      "co": "15:45",
-      "duty": "9h45",
-      "fdp": "9h25",
-      "ground": [
-        "Cama a las 21:00 el día 23 (adelántala desde el 22).",
-        "Tras el vuelo: siesta de 20 min antes de las 17:00. Cama a las 20:30: mañana firmas a las 05:55."
-      ],
-      "l": "y",
-      "max": "12h00",
-      "peaks": [
-        "04:30–06:30: despertar en WOCL.",
-        "13:35–15:25: último sector SCQ-PMI."
-      ],
-      "sec": [
-        [
-          "PMI-SVQ",
-          "VY3980",
-          "06:45",
-          "08:20"
-        ],
-        [
-          "SVQ-PMI",
-          "VY3981",
-          "08:55",
-          "10:30"
-        ],
-        [
-          "PMI-SCQ",
-          "VY3972",
-          "11:05",
-          "13:00"
-        ],
-        [
-          "SCQ-PMI",
-          "VY3973",
-          "13:35",
-          "15:25"
-        ]
-      ],
-      "t": "fly",
-      "title": "PMI SVQ PMI SCQ PMI",
-      "why": "Firma a las 06:00 con 4 sectores y 9h45 de actividad. Primero de cuatro despertares tempranos seguidos (24 al 27) y víspera de un día rojo.",
-      "z": "0500Z–1445Z"
-    },
-    "2026-11-25": {
-      "air": [
-        "Café al despertar y otro ≈30 min antes del TOD de ZAZ-PMI (≈12:50L). Nada después de las 14:00.",
-        "Descanso controlado solo si lo permite el procedimiento de la compañía y lo acordáis con el CM: crucero PMI-ZAZ, máx. 30–40 min, terminando ≥30 min antes del TOD.",
-        "Luz alta en cabina y fatiga como amenaza principal en el briefing TEM."
-      ],
-      "ci": "05:55",
-      "co": "13:40",
-      "duty": "7h45",
-      "fdp": "7h25",
-      "ground": [
-        "Cama a las 20:30 el día 24, oscuridad total.",
-        "Tras el vuelo: siesta de 90 min antes de las 16:00.",
-        "Cena antes de las 19:30 y cama a las 20:00: mañana imaginaria desde las 04:35."
-      ],
-      "l": "r",
-      "max": "11h45",
-      "peaks": [
-        "04:25–06:30: despertar e inercia del sueño en PMI-BCN.",
-        "12:15–13:20: último sector ZAZ-PMI.",
-        "13:40–14:15: conducción a casa."
-      ],
-      "sec": [
-        [
-          "PMI-BCN",
-          "VY3915",
-          "06:40",
-          "07:35"
-        ],
-        [
-          "BCN-PMI",
-          "VY3914",
-          "08:20",
-          "09:10"
-        ],
-        [
-          "PMI-ZAZ",
-          "VY3994",
-          "10:35",
-          "11:40"
-        ],
-        [
-          "ZAZ-PMI",
-          "VY3995",
-          "12:15",
-          "13:20"
-        ]
-      ],
-      "t": "fly",
-      "title": "PMI BCN PMI ZAZ PMI",
-      "why": "Early start (firma 05:55) con 4 sectores tras el madrugón del 24. Despertar hacia las 04:25, en plena WOCL, y mañana imaginaria desde las 04:35.",
-      "z": "0455Z–1240Z"
-    },
-    "2026-11-26": {
-      "air": [
-        "Si te activan: café al firmar y otro ≈30 min antes del TOD del último sector. Nada después de las 14:00.",
-        "Descanso controlado solo si lo permite el procedimiento de la compañía y lo acordáis con el CM: en el crucero más largo, máx. 30–40 min, terminando ≥30 min antes del TOD.",
-        "Comunica tu nivel de fatiga en el briefing TEM."
-      ],
-      "ground": [
-        "Cama a las 20:00 el día 25.",
-        "Si no te activan temprano: siesta de 90 min antes de las 11:00, con el teléfono a mano.",
-        "Cama a las 20:30: mañana firmas a las 06:20."
-      ],
-      "l": "r",
-      "peaks": [
-        "04:05–06:00: despertar en WOCL.",
-        "Si te activan: los sectores de media mañana a media tarde, con más de 9 h despierto.",
-        "Conducción tras una activación."
-      ],
-      "sby": [
-        "04:35",
-        "16:35"
-      ],
-      "t": "sby",
-      "title": "Imaginaria (SBY)",
-      "why": "Tercer despertar de madrugada seguido (24 a las 06:00, 25 a las 05:55 y hoy imaginaria desde las 04:35). Si te activan, volarías con deuda de sueño alta; mañana vuelves a firmar a las 06:20.",
-      "z": "0335Z–1535Z"
-    },
-    "2026-11-27": {
-      "air": [
-        "Café al despertar y otro ≈30 min antes del TOD de BCN-PMI (≈13:15L). Nada después de las 14:00.",
-        "Descanso controlado solo si lo permite el procedimiento de la compañía y lo acordáis con el CM: crucero PMI-BIO, máx. 30–40 min, terminando ≥30 min antes del TOD.",
-        "Luz alta en cabina y fatiga como amenaza principal en el briefing TEM."
-      ],
-      "ci": "06:20",
-      "co": "14:00",
-      "duty": "7h40",
-      "fdp": "7h20",
-      "ground": [
-        "Cama a las 20:30 el día 26, oscuridad total.",
-        "Tras el vuelo: siesta de 90 min antes de las 16:00. Días 28 y 29 libres: duerme sin despertador.",
-        "Si notas microsueños al volante, para y duerme 15 min."
-      ],
-      "l": "r",
-      "max": "12h00",
-      "peaks": [
-        "04:50–06:30: despertar e inercia del sueño en PMI-BIO.",
-        "12:50–13:40: último sector BCN-PMI y aproximación a Palma.",
-        "14:00–14:30: conducción a casa."
-      ],
-      "sec": [
-        [
-          "PMI-BIO",
-          "VY3890",
-          "07:05",
-          "08:30"
-        ],
-        [
-          "BIO-PMI",
-          "VY3891",
-          "09:05",
-          "10:25"
-        ],
-        [
-          "PMI-BCN",
-          "VY3925",
-          "11:10",
-          "12:05"
-        ],
-        [
-          "BCN-PMI",
-          "VY3924",
-          "12:50",
-          "13:40"
-        ]
-      ],
-      "t": "fly",
-      "title": "PMI BIO PMI BCN PMI",
-      "why": "Cuarto despertar de madrugada seguido (24, 25, 26 y 27) y cuarto día de actividad consecutivo, con 4 sectores. Es el día de mayor deuda de sueño del bloque.",
-      "z": "0520Z–1300Z"
-    },
-    "2026-11-30": {
-      "air": [
-        "Café al despertar y otro ≈30 min antes del TOD de XRY-PMI (≈14:25L). Nada después de las 15:30.",
-        "Fatiga en el briefing TEM."
-      ],
-      "ci": "06:50",
-      "co": "15:15",
-      "duty": "8h25",
-      "fdp": "8h05",
-      "ground": [
-        "Cama a las 21:30 el día 29.",
-        "Tras el vuelo: siesta de 20 min antes de las 17:00."
-      ],
-      "l": "y",
-      "max": "12h00",
-      "peaks": [
-        "05:20–07:00: despertar e inercia del sueño.",
-        "13:20–14:55: último sector XRY-PMI."
-      ],
-      "sec": [
-        [
-          "PMI-VLC",
-          "VY3984",
-          "07:35",
-          "08:30"
-        ],
-        [
-          "VLC-PMI",
-          "VY3985",
-          "09:05",
-          "10:00"
-        ],
-        [
-          "PMI-XRY",
-          "VY3990",
-          "11:05",
-          "12:45"
-        ],
-        [
-          "XRY-PMI",
-          "VY3991",
-          "13:20",
-          "14:55"
-        ]
-      ],
-      "t": "fly",
-      "title": "PMI VLC PMI XRY PMI",
-      "why": "Firma a las 06:50 con 4 sectores tras dos días libres.",
-      "z": "0550Z–1415Z"
-    }
+ "generated": "2026-10-20T12:06:13+02:00",
+ "publishedUntil": "2026-11-30",
+ "source": "RosterBuster (sync eCrews)",
+ "signature": "0b3e0152f75417fcd1b7d5f2565167fa6f745825",
+ "days": {
+  "2026-10-17": {
+   "air": [],
+   "gnd": [
+    "09:00",
+    "11:00"
+   ],
+   "ground": [
+    "Mañana imaginaria desde las 04:00L: cama a las 21:00."
+   ],
+   "l": "g",
+   "peaks": [],
+   "t": "ground",
+   "title": "eLearning - AWO - LMSH",
+   "why": "Actividad en tierra de 2 h. Cuenta como actividad pero no genera fatiga relevante.",
+   "z": "0700Z–0900Z"
   },
-  "generated": "2026-10-16T20:55:31+02:00",
-  "publishedUntil": "2026-11-30",
-  "signature": "2f60ff0a8bed9943f4af532445f7923078c39ad5",
-  "source": "RosterBuster (sync eCrews)"
+  "2026-10-18": {
+   "t": "fly",
+   "l": "r",
+   "title": "PMI ZAZ PMI XRY PMI",
+   "ci": "04:00",
+   "co": "14:56",
+   "z": "0200Z–1256Z",
+   "duty": "10h56",
+   "fdp": "10h36",
+   "max": "10h00",
+   "sec": [
+    [
+     "PMI-ZAZ",
+     "VY3978",
+     "05:56",
+     "07:00"
+    ],
+    [
+     "ZAZ-PMI",
+     "VY3979",
+     "07:47",
+     "08:56"
+    ],
+    [
+     "PMI-XRY",
+     "VY3153",
+     "09:32",
+     "11:23"
+    ],
+    [
+     "XRY-PMI",
+     "VY3154",
+     "13:05",
+     "14:36"
+    ]
+   ],
+   "why": "Imaginaria de aeropuerto (OSBY) desde las 04:00L en plena WOCL y activación a 4 sectores. FDP de 10h36 contada desde las 04:00, por encima del máximo de tabla de 10h00 (inicio 04:00, 4 sectores): solo cabe con extensión o discreción del comandante. Si acabaste muy cansado, valora un informe de fatiga.",
+   "peaks": [
+    "04:00–06:00: WOCL e inercia del sueño en la OSBY y el despegue PMI-ZAZ.",
+    "13:05–14:36: último sector XRY-PMI con más de 12 h despierto.",
+    "15:00–15:30: conducción a casa tras desfirmar."
+   ],
+   "ground": [
+    "Tras desfirmar, siesta máxima de 90 min y antes de las 17:00.",
+    "Cama temprana esa noche; el 19 libre para recuperar."
+   ],
+   "air": [
+    "Cafeína al despertar y otra ~30 min antes del TOD de XRY-PMI (≈14:05L).",
+    "Descanso controlado en el crucero PMI-XRY, solo si lo permite el procedimiento de la compañía y lo acordáis con el CM: máx. 30-40 min, terminando ≥30 min antes del TOD.",
+    "Briefing TEM con la fatiga como amenaza explícita."
+   ]
+  },
+  "2026-10-20": {
+   "air": [
+    "Sin medidas especiales."
+   ],
+   "ci": "14:30",
+   "co": "19:35",
+   "duty": "5h05",
+   "fdp": "4h45",
+   "ground": [
+    "Acuéstate hacia la 01:00 y levántate hacia las 09:30: es el horario que te va a servir hasta el 24."
+   ],
+   "l": "g",
+   "max": "12h15",
+   "peaks": [
+    "18:30–19:15: bajón leve."
+   ],
+   "sec": [
+    [
+     "PMI-OVD",
+     "VY3864",
+     "15:15",
+     "17:00"
+    ],
+    [
+     "OVD-PMI",
+     "VY3865",
+     "17:35",
+     "19:15"
+    ]
+   ],
+   "t": "fly",
+   "title": "PMI OVD PMI",
+   "why": "Tarde corta. Buen día para empezar a retrasar el horario de sueño para los tres días siguientes.",
+   "z": "1230Z–1735Z"
+  },
+  "2026-10-21": {
+   "air": [
+    "Café hacia las 21:45, no más tarde.",
+    "Descanso controlado solo si lo permite el procedimiento de la compañía y lo acordáis con el CM: crucero PMI-SVQ, máx. 30–40 min, terminando ≥30 min antes del TOD."
+   ],
+   "ci": "14:20",
+   "co": "00:35",
+   "coNext": true,
+   "duty": "10h15",
+   "fdp": "9h55",
+   "ground": [
+    "Siesta de 45–60 min entre las 12:00 y las 13:00.",
+    "Cama en cuanto llegues; duerme hasta las 09:30–10:00."
+   ],
+   "l": "y",
+   "max": "11h30",
+   "peaks": [
+    "23:00–00:15: aproximación SVQ-PMI.",
+    "00:35–01:10: conducción."
+   ],
+   "sec": [
+    [
+     "PMI-ORY",
+     "VY6943",
+     "15:05",
+     "17:10"
+    ],
+    [
+     "ORY-PMI",
+     "VY6942",
+     "17:50",
+     "19:45"
+    ],
+    [
+     "PMI-SVQ",
+     "VY3946",
+     "20:30",
+     "22:05"
+    ],
+    [
+     "SVQ-PMI",
+     "VY3947",
+     "22:40",
+     "00:15"
+    ]
+   ],
+   "t": "fly",
+   "title": "PMI ORY PMI SVQ PMI",
+   "why": "Primer late finish del bloque, 10h15 de actividad y 4 sectores. Con el sueño ya retrasado, el riesgo es moderado.",
+   "z": "1220Z–2235Z"
+  },
+  "2026-10-22": {
+   "air": [
+    "Café hacia las 21:30 como tarde."
+   ],
+   "ci": "15:45",
+   "co": "00:00",
+   "coNext": true,
+   "duty": "8h15",
+   "fdp": "7h55",
+   "ground": [
+    "Mismo horario: cama hacia la 01:00, levantarse hacia las 09:30. Siesta corta antes de firmar si te notas cargado."
+   ],
+   "l": "y",
+   "max": "10h45",
+   "peaks": [
+    "22:45–23:40: aproximación AGP-PMI."
+   ],
+   "sec": [
+    [
+     "PMI-BCN",
+     "VY3911",
+     "16:30",
+     "17:30"
+    ],
+    [
+     "BCN-PMI",
+     "VY3910",
+     "18:15",
+     "19:10"
+    ],
+    [
+     "PMI-AGP",
+     "VY3151",
+     "19:50",
+     "21:30"
+    ],
+    [
+     "AGP-PMI",
+     "VY3150",
+     "22:10",
+     "23:40"
+    ]
+   ],
+   "t": "fly",
+   "title": "PMI BCN PMI AGP PMI",
+   "why": "Segundo día seguido terminando a medianoche, 4 sectores. Actividad algo más corta que ayer.",
+   "z": "1345Z–2200Z"
+  },
+  "2026-10-23": {
+   "air": [
+    "Café al firmar y otro hacia las 21:45, antes de salir de OVD. Nada después.",
+    "Descanso controlado solo si lo permite el procedimiento de la compañía y lo acordáis con el CM: crucero PMI-OVD, máx. 30–40 min, terminando ≥30 min antes del TOD.",
+    "Luz alta en cabina y briefing de amenazas con la fatiga incluida."
+   ],
+   "ci": "14:45",
+   "co": "00:25",
+   "coNext": true,
+   "duty": "9h40",
+   "fdp": "9h20",
+   "ground": [
+    "Oscuridad total y tapones: protege las 8 h de sueño de las noches del 21 al 24.",
+    "Siesta de 60–90 min entre las 12:00 y las 13:30.",
+    "El 24 firmas a las 15:00: duerme hasta tarde. El 25 cambia la hora (UTC+1)."
+   ],
+   "l": "r",
+   "max": "11h15",
+   "peaks": [
+    "16:00–17:00: bajón de media tarde en PMI-XRY.",
+    "22:30–00:05: pico del día. Sector OVD-PMI y aproximación a Palma.",
+    "00:25–01:00: conducción."
+   ],
+   "sec": [
+    [
+     "PMI-XRY",
+     "VY3153",
+     "15:30",
+     "17:15"
+    ],
+    [
+     "XRY-PMI",
+     "VY3154",
+     "17:50",
+     "19:25"
+    ],
+    [
+     "PMI-OVD",
+     "VY3864",
+     "20:00",
+     "21:50"
+    ],
+    [
+     "OVD-PMI",
+     "VY3865",
+     "22:25",
+     "00:05"
+    ]
+   ],
+   "t": "fly",
+   "title": "PMI XRY PMI OVD PMI",
+   "why": "Tercer late finish seguido, cuarto día de actividad consecutivo y 4 sectores. La deuda de sueño y el retraso circadiano se acumulan.",
+   "z": "1245Z–2225Z"
+  },
+  "2026-10-24": {
+   "air": [
+    "Sin medidas especiales, salvo café antes del TOD si lo necesitas."
+   ],
+   "ci": "15:00",
+   "co": "20:45",
+   "duty": "5h45",
+   "fdp": "5h25",
+   "ground": [
+    "Esta noche cambia la hora. Usa los días siguientes para volver a tu horario normal con luz natural por la mañana."
+   ],
+   "l": "y",
+   "max": "12h00",
+   "peaks": [
+    "19:30–20:25: bajón en la vuelta."
+   ],
+   "sec": [
+    [
+     "PMI-ORY",
+     "VY6943",
+     "15:45",
+     "17:50"
+    ],
+    [
+     "ORY-PMI",
+     "VY6942",
+     "18:30",
+     "20:25"
+    ]
+   ],
+   "t": "fly",
+   "title": "PMI ORY PMI",
+   "why": "Actividad corta, pero es el quinto día seguido (20–24) y llegas tras tres noches tardías.",
+   "z": "1300Z–1845Z"
+  },
+  "2026-11-01": {
+   "air": [
+    "Café al despertar y otro ≈30 min antes del TOD de XRY-PMI (≈14:25L). Nada después de las 15:00.",
+    "Descanso controlado solo si lo permite el procedimiento de la compañía y lo acordáis con el CM: crucero PMI-XRY, máx. 30–40 min, terminando ≥30 min antes del TOD.",
+    "Luz alta en cabina y fatiga en el briefing TEM."
+   ],
+   "ci": "06:00",
+   "co": "15:15",
+   "duty": "9h15",
+   "fdp": "8h55",
+   "ground": [
+    "Cama a las 21:00 el día 31. Adelanta la hora de acostarte 30–60 min los días 30 y 31.",
+    "Tras el vuelo: siesta de 20 o 90 min, siempre antes de las 17:00.",
+    "Luz natural por la tarde y oscuridad total por la noche."
+   ],
+   "l": "y",
+   "max": "12h00",
+   "peaks": [
+    "04:30–06:30: despertar en WOCL e inercia del sueño.",
+    "13:20–14:55: último sector XRY-PMI, bajón posprandial."
+   ],
+   "sec": [
+    [
+     "PMI-SVQ",
+     "VY3980",
+     "06:45",
+     "08:20"
+    ],
+    [
+     "SVQ-PMI",
+     "VY3981",
+     "08:55",
+     "10:30"
+    ],
+    [
+     "PMI-XRY",
+     "VY3990",
+     "11:05",
+     "12:45"
+    ],
+    [
+     "XRY-PMI",
+     "VY3991",
+     "13:20",
+     "14:55"
+    ]
+   ],
+   "t": "fly",
+   "title": "PMI SVQ PMI XRY PMI",
+   "why": "Firma a las 06:00 con 4 sectores y más de 9 h. Primer servicio tras una semana libre y tras el cambio de hora del 25: el cuerpo ya está en horario de invierno, pero el despertar (≈04:30) cae en WOCL.",
+   "z": "0500Z–1415Z"
+  },
+  "2026-11-06": {
+   "air": [
+    "Si te activan: café al firmar y nada en las 6 h previas a dormir."
+   ],
+   "ground": [
+    "Duerme hasta que despiertes. Siesta profiláctica de 60–90 min hacia las 14:00 por si te activan para la tarde."
+   ],
+   "l": "g",
+   "peaks": [
+    "15:00–17:00: bajón de media tarde si te activan."
+   ],
+   "sby": [
+    "10:00",
+    "22:00"
+   ],
+   "t": "sby",
+   "title": "Imaginaria (SBY)",
+   "why": "Imaginaria de 10:00 a 22:00. Sin madrugón; posible activación hasta tarde.",
+   "z": "0900Z–2100Z"
+  },
+  "2026-11-07": {
+   "air": [
+    "Un café al firmar basta."
+   ],
+   "ci": "13:50",
+   "co": "17:25",
+   "duty": "3h35",
+   "fdp": "3h15",
+   "ground": [
+    "Cena temprano y cama a las 22:00: el 9 firmas a las 06:50."
+   ],
+   "l": "g",
+   "max": "12h45",
+   "peaks": [
+    "15:00–16:00: bajón de media tarde en BCN."
+   ],
+   "sec": [
+    [
+     "PMI-BCN",
+     "VY3933",
+     "14:35",
+     "15:25"
+    ],
+    [
+     "BCN-PMI",
+     "VY3932",
+     "16:15",
+     "17:05"
+    ]
+   ],
+   "t": "fly",
+   "title": "PMI BCN PMI",
+   "why": "Firma a las 13:50, 2 sectores cortos y menos de 4 h.",
+   "z": "1250Z–1625Z"
+  },
+  "2026-11-09": {
+   "air": [
+    "Café al despertar y otro ≈30 min antes del TOD de SCQ-PMI (≈14:55L). Nada después de las 15:30.",
+    "Descanso controlado solo si lo permite el procedimiento de la compañía y lo acordáis con el CM: crucero SCQ-PMI, máx. 30–40 min, terminando ≥30 min antes del TOD.",
+    "Fatiga en el briefing TEM."
+   ],
+   "ci": "06:50",
+   "co": "15:45",
+   "duty": "8h55",
+   "fdp": "8h35",
+   "ground": [
+    "Cama a las 21:30 el día 8.",
+    "Tras el vuelo: siesta de 20 min antes de las 17:00 y cama a las 21:00: mañana firmas a las 06:20."
+   ],
+   "l": "y",
+   "max": "12h00",
+   "peaks": [
+    "05:20–07:00: despertar e inercia del sueño.",
+    "13:35–15:25: último sector SCQ-PMI, el más largo del día."
+   ],
+   "sec": [
+    [
+     "PMI-VLC",
+     "VY3984",
+     "07:35",
+     "08:30"
+    ],
+    [
+     "VLC-PMI",
+     "VY3985",
+     "09:05",
+     "10:00"
+    ],
+    [
+     "PMI-SCQ",
+     "VY3972",
+     "11:05",
+     "13:00"
+    ],
+    [
+     "SCQ-PMI",
+     "VY3973",
+     "13:35",
+     "15:25"
+    ]
+   ],
+   "t": "fly",
+   "title": "PMI VLC PMI SCQ PMI",
+   "why": "Firma a las 06:50 con 4 sectores tras un solo día libre (8). Primer madrugón de tres despertares tempranos seguidos (9, 10 y 11).",
+   "z": "0550Z–1445Z"
+  },
+  "2026-11-10": {
+   "air": [
+    "Café al despertar y otro antes del TOD de BIO-PMI (≈09:55L). Nada después de las 13:00."
+   ],
+   "ci": "06:20",
+   "co": "10:45",
+   "duty": "4h25",
+   "fdp": "4h05",
+   "ground": [
+    "Tras el vuelo: siesta de 90 min entre las 12:00 y las 14:00.",
+    "Cena antes de las 19:30 y cama a las 20:00: mañana imaginaria desde las 04:25."
+   ],
+   "l": "y",
+   "max": "13h00",
+   "peaks": [
+    "04:50–06:30: despertar en WOCL.",
+    "09:05–10:25: regreso BIO-PMI."
+   ],
+   "sec": [
+    [
+     "PMI-BIO",
+     "VY3890",
+     "07:05",
+     "08:30"
+    ],
+    [
+     "BIO-PMI",
+     "VY3891",
+     "09:05",
+     "10:25"
+    ]
+   ],
+   "t": "fly",
+   "title": "PMI BIO PMI",
+   "why": "Segundo despertar temprano seguido (firma 06:20) y víspera de una imaginaria a las 04:25, que será el tercero. Solo 2 sectores.",
+   "z": "0520Z–0945Z"
+  },
+  "2026-11-11": {
+   "air": [
+    "Si te activan: café al firmar y otro ≈30 min antes del TOD del último sector. Nada después de las 14:00.",
+    "Descanso controlado solo si lo permite el procedimiento de la compañía y lo acordáis con el CM: en el crucero más largo, máx. 30–40 min, terminando ≥30 min antes del TOD.",
+    "Comunica tu nivel de fatiga en el briefing TEM."
+   ],
+   "ground": [
+    "Cama a las 20:00 el día 10, móvil fuera del dormitorio.",
+    "Si no te activan a primera hora: siesta de 90 min antes de las 11:00, con el teléfono a mano.",
+    "Luz fuerte al despertar. Días 12 y 13 libres: duerme sin despertador."
+   ],
+   "l": "r",
+   "peaks": [
+    "03:55–06:00: despertar en WOCL.",
+    "Si te activan: los sectores entre las 13:00 y las 16:00, con más de 9 h despierto.",
+    "Conducción de vuelta a casa tras una activación."
+   ],
+   "sby": [
+    "04:25",
+    "16:25"
+   ],
+   "t": "sby",
+   "title": "Imaginaria (SBY)",
+   "why": "Tercer despertar de madrugada seguido (9 a las 06:50, 10 a las 06:20 y hoy imaginaria desde las 04:25, en plena WOCL). Si te activan temprano, volarías con deuda de sueño acumulada.",
+   "z": "0325Z–1525Z"
+  },
+  "2026-11-14": {
+   "air": [
+    "Café al despertar y otro ≈30 min antes del TOD de VLC-PMI (≈13:15L). Nada después de las 15:00.",
+    "Fatiga en el briefing TEM."
+   ],
+   "ci": "06:00",
+   "co": "14:05",
+   "duty": "8h05",
+   "fdp": "7h45",
+   "ground": [
+    "Cama a las 21:00 el día 13.",
+    "Tras el vuelo: siesta de 20 min antes de las 17:00. Cama a las 21:00: mañana firmas a las 06:00."
+   ],
+   "l": "y",
+   "max": "12h00",
+   "peaks": [
+    "04:30–06:30: despertar en WOCL.",
+    "12:50–13:45: último sector VLC-PMI."
+   ],
+   "sec": [
+    [
+     "PMI-AGP",
+     "VY3880",
+     "06:45",
+     "08:15"
+    ],
+    [
+     "AGP-PMI",
+     "VY3881",
+     "08:55",
+     "10:25"
+    ],
+    [
+     "PMI-VLC",
+     "VY3984",
+     "11:20",
+     "12:15"
+    ],
+    [
+     "VLC-PMI",
+     "VY3985",
+     "12:50",
+     "13:45"
+    ]
+   ],
+   "t": "fly",
+   "title": "PMI AGP PMI VLC PMI",
+   "why": "Firma a las 06:00 con 4 sectores. Primero de tres madrugones seguidos (14, 15 y 16).",
+   "z": "0500Z–1305Z"
+  },
+  "2026-11-15": {
+   "air": [
+    "Café al despertar y otro ≈30 min antes del TOD de XRY-PMI (≈14:25L). Nada después de las 15:00.",
+    "Descanso controlado solo si lo permite el procedimiento de la compañía y lo acordáis con el CM: crucero PMI-XRY, máx. 30–40 min, terminando ≥30 min antes del TOD."
+   ],
+   "ci": "06:00",
+   "co": "15:15",
+   "duty": "9h15",
+   "fdp": "8h55",
+   "ground": [
+    "Cama a las 21:00 el día 14.",
+    "Tras el vuelo: siesta de 20 min antes de las 17:00. Cena temprano y cama a las 20:30."
+   ],
+   "l": "y",
+   "max": "12h00",
+   "peaks": [
+    "04:30–06:30: despertar en WOCL.",
+    "13:20–14:55: último sector XRY-PMI."
+   ],
+   "sec": [
+    [
+     "PMI-SVQ",
+     "VY3980",
+     "06:45",
+     "08:20"
+    ],
+    [
+     "SVQ-PMI",
+     "VY3981",
+     "08:55",
+     "10:30"
+    ],
+    [
+     "PMI-XRY",
+     "VY3990",
+     "11:05",
+     "12:45"
+    ],
+    [
+     "XRY-PMI",
+     "VY3991",
+     "13:20",
+     "14:55"
+    ]
+   ],
+   "t": "fly",
+   "title": "PMI SVQ PMI XRY PMI",
+   "why": "Segundo madrugón seguido (firma 06:00) con 4 sectores y más de 9 h. Víspera de un día rojo.",
+   "z": "0500Z–1415Z"
+  },
+  "2026-11-16": {
+   "air": [
+    "Café al despertar y otro ≈30 min antes del TOD de AGP-PMI (≈09:55L). Nada después de las 13:00.",
+    "Descanso controlado solo si lo permite el procedimiento de la compañía y lo acordáis con el CM: crucero AGP-PMI, máx. 30–40 min, terminando ≥30 min antes del TOD.",
+    "Fatiga como amenaza principal en el briefing TEM."
+   ],
+   "ci": "06:00",
+   "co": "10:45",
+   "duty": "4h45",
+   "fdp": "4h25",
+   "ground": [
+    "Cama a las 20:30 el día 15, oscuridad total.",
+    "Tras el vuelo: siesta de 90 min antes de las 14:00. Días 17 y 18 libres: recupera sueño sin despertador.",
+    "Si notas microsueños al volante, para y duerme 15 min."
+   ],
+   "l": "r",
+   "max": "13h00",
+   "peaks": [
+    "04:30–06:30: despertar en WOCL.",
+    "08:55–10:25: regreso AGP-PMI y aproximación a Palma.",
+    "10:45–11:30: conducción a casa."
+   ],
+   "sec": [
+    [
+     "PMI-AGP",
+     "VY3880",
+     "06:45",
+     "08:15"
+    ],
+    [
+     "AGP-PMI",
+     "VY3881",
+     "08:55",
+     "10:25"
+    ]
+   ],
+   "t": "fly",
+   "title": "PMI AGP PMI",
+   "why": "Tercer despertar de madrugada seguido (firmas a las 06:00 el 14, 15 y 16). Aunque solo hay 2 sectores, la deuda de sueño acumulada es alta.",
+   "z": "0500Z–0945Z"
+  },
+  "2026-11-19": {
+   "air": [
+    "Café al firmar y otro hacia las 21:45, antes de salir de BIO. Nada después.",
+    "Descanso controlado solo si lo permite el procedimiento de la compañía y lo acordáis con el CM: crucero PMI-GRX o PMI-BIO, máx. 30–40 min, terminando ≥30 min antes del TOD."
+   ],
+   "ci": "16:15",
+   "co": "00:25",
+   "coNext": true,
+   "duty": "8h10",
+   "fdp": "7h50",
+   "ground": [
+    "Duerme hasta tarde. Siesta profiláctica de 60–90 min entre las 13:00 y las 14:30.",
+    "Al llegar, luz tenue y a la cama sin pantallas."
+   ],
+   "l": "y",
+   "max": "10h30",
+   "peaks": [
+    "16:00–17:00: bajón de media tarde.",
+    "22:50–00:05: último sector BIO-PMI y aproximación a Palma.",
+    "00:25–01:00: conducción."
+   ],
+   "sec": [
+    [
+     "PMI-GRX",
+     "VY3962",
+     "17:00",
+     "18:25"
+    ],
+    [
+     "GRX-PMI",
+     "VY3963",
+     "19:00",
+     "20:15"
+    ],
+    [
+     "PMI-BIO",
+     "VY3894",
+     "20:50",
+     "22:10"
+    ],
+    [
+     "BIO-PMI",
+     "VY3895",
+     "22:50",
+     "00:05"
+    ]
+   ],
+   "t": "fly",
+   "title": "PMI GRX PMI BIO PMI",
+   "why": "Late finish (fin 00:25) con 4 sectores, aislado tras dos días libres.",
+   "z": "1515Z–2325Z"
+  },
+  "2026-11-20": {
+   "air": [
+    "Café al firmar y otro hacia las 21:45, antes de salir de BIO. Nada después.",
+    "Descanso controlado solo si lo permite el procedimiento de la compañía y lo acordáis con el CM: crucero PMI-SCQ, máx. 30–40 min, terminando ≥30 min antes del TOD.",
+    "Luz alta en cabina y fatiga en el briefing TEM."
+   ],
+   "ci": "15:10",
+   "co": "00:25",
+   "coNext": true,
+   "duty": "9h15",
+   "fdp": "8h55",
+   "ground": [
+    "Duerme hasta las 09:00–09:30. Siesta profiláctica de 60–90 min entre las 12:30 y las 13:45.",
+    "Oscuridad total y tapones al acostarte."
+   ],
+   "l": "y",
+   "max": "11h00",
+   "peaks": [
+    "15:30–17:00: bajón de media tarde en PMI-SCQ.",
+    "22:50–00:05: último sector BIO-PMI.",
+    "00:25–01:00: conducción."
+   ],
+   "sec": [
+    [
+     "PMI-SCQ",
+     "VY3976",
+     "15:55",
+     "17:50"
+    ],
+    [
+     "SCQ-PMI",
+     "VY3977",
+     "18:30",
+     "20:15"
+    ],
+    [
+     "PMI-BIO",
+     "VY3894",
+     "20:50",
+     "22:10"
+    ],
+    [
+     "BIO-PMI",
+     "VY3895",
+     "22:50",
+     "00:05"
+    ]
+   ],
+   "t": "fly",
+   "title": "PMI SCQ PMI BIO PMI",
+   "why": "Segundo late finish seguido (fin 00:25) con 4 sectores y 9h15 de actividad.",
+   "z": "1410Z–2325Z"
+  },
+  "2026-11-21": {
+   "air": [],
+   "gnd": [
+    "15:00",
+    "16:15"
+   ],
+   "ground": [
+    "Duerme sin despertador. Días 22 y 23 libres: adelanta poco a poco la hora de acostarte, el 24 firmas a las 06:00."
+   ],
+   "l": "g",
+   "peaks": [
+    "15:00–16:15: somnolencia tras dos noches cortas."
+   ],
+   "t": "ground",
+   "title": "LMPB - LMRM",
+   "why": "Actividad en tierra corta (15:00–16:15) tras dos late finish. Carga baja.",
+   "z": "1400Z–1515Z"
+  },
+  "2026-11-24": {
+   "air": [
+    "Café al despertar y otro ≈30 min antes del TOD de SCQ-PMI (≈14:55L). Nada después de las 15:30.",
+    "Descanso controlado solo si lo permite el procedimiento de la compañía y lo acordáis con el CM: crucero SCQ-PMI, máx. 30–40 min, terminando ≥30 min antes del TOD."
+   ],
+   "ci": "06:00",
+   "co": "15:45",
+   "duty": "9h45",
+   "fdp": "9h25",
+   "ground": [
+    "Cama a las 21:00 el día 23 (adelántala desde el 22).",
+    "Tras el vuelo: siesta de 20 min antes de las 17:00. Cama a las 20:30: mañana firmas a las 05:55."
+   ],
+   "l": "y",
+   "max": "12h00",
+   "peaks": [
+    "04:30–06:30: despertar en WOCL.",
+    "13:35–15:25: último sector SCQ-PMI."
+   ],
+   "sec": [
+    [
+     "PMI-SVQ",
+     "VY3980",
+     "06:45",
+     "08:20"
+    ],
+    [
+     "SVQ-PMI",
+     "VY3981",
+     "08:55",
+     "10:30"
+    ],
+    [
+     "PMI-SCQ",
+     "VY3972",
+     "11:05",
+     "13:00"
+    ],
+    [
+     "SCQ-PMI",
+     "VY3973",
+     "13:35",
+     "15:25"
+    ]
+   ],
+   "t": "fly",
+   "title": "PMI SVQ PMI SCQ PMI",
+   "why": "Firma a las 06:00 con 4 sectores y 9h45 de actividad. Primero de cuatro despertares tempranos seguidos (24 al 27) y víspera de un día rojo.",
+   "z": "0500Z–1445Z"
+  },
+  "2026-11-25": {
+   "air": [
+    "Café al despertar y otro ≈30 min antes del TOD de ZAZ-PMI (≈12:50L). Nada después de las 14:00.",
+    "Descanso controlado solo si lo permite el procedimiento de la compañía y lo acordáis con el CM: crucero PMI-ZAZ, máx. 30–40 min, terminando ≥30 min antes del TOD.",
+    "Luz alta en cabina y fatiga como amenaza principal en el briefing TEM."
+   ],
+   "ci": "05:55",
+   "co": "13:40",
+   "duty": "7h45",
+   "fdp": "7h25",
+   "ground": [
+    "Cama a las 20:30 el día 24, oscuridad total.",
+    "Tras el vuelo: siesta de 90 min antes de las 16:00.",
+    "Cena antes de las 19:30 y cama a las 20:00: mañana imaginaria desde las 04:35."
+   ],
+   "l": "r",
+   "max": "11h45",
+   "peaks": [
+    "04:25–06:30: despertar e inercia del sueño en PMI-BCN.",
+    "12:15–13:20: último sector ZAZ-PMI.",
+    "13:40–14:15: conducción a casa."
+   ],
+   "sec": [
+    [
+     "PMI-BCN",
+     "VY3915",
+     "06:40",
+     "07:35"
+    ],
+    [
+     "BCN-PMI",
+     "VY3914",
+     "08:20",
+     "09:10"
+    ],
+    [
+     "PMI-ZAZ",
+     "VY3994",
+     "10:35",
+     "11:40"
+    ],
+    [
+     "ZAZ-PMI",
+     "VY3995",
+     "12:15",
+     "13:20"
+    ]
+   ],
+   "t": "fly",
+   "title": "PMI BCN PMI ZAZ PMI",
+   "why": "Early start (firma 05:55) con 4 sectores tras el madrugón del 24. Despertar hacia las 04:25, en plena WOCL, y mañana imaginaria desde las 04:35.",
+   "z": "0455Z–1240Z"
+  },
+  "2026-11-26": {
+   "air": [
+    "Si te activan: café al firmar y otro ≈30 min antes del TOD del último sector. Nada después de las 14:00.",
+    "Descanso controlado solo si lo permite el procedimiento de la compañía y lo acordáis con el CM: en el crucero más largo, máx. 30–40 min, terminando ≥30 min antes del TOD.",
+    "Comunica tu nivel de fatiga en el briefing TEM."
+   ],
+   "ground": [
+    "Cama a las 20:00 el día 25.",
+    "Si no te activan temprano: siesta de 90 min antes de las 11:00, con el teléfono a mano.",
+    "Cama a las 20:30: mañana firmas a las 06:20."
+   ],
+   "l": "r",
+   "peaks": [
+    "04:05–06:00: despertar en WOCL.",
+    "Si te activan: los sectores de media mañana a media tarde, con más de 9 h despierto.",
+    "Conducción tras una activación."
+   ],
+   "sby": [
+    "04:35",
+    "16:35"
+   ],
+   "t": "sby",
+   "title": "Imaginaria (SBY)",
+   "why": "Tercer despertar de madrugada seguido (24 a las 06:00, 25 a las 05:55 y hoy imaginaria desde las 04:35). Si te activan, volarías con deuda de sueño alta; mañana vuelves a firmar a las 06:20.",
+   "z": "0335Z–1535Z"
+  },
+  "2026-11-27": {
+   "air": [
+    "Café al despertar y otro ≈30 min antes del TOD de BCN-PMI (≈13:15L). Nada después de las 14:00.",
+    "Descanso controlado solo si lo permite el procedimiento de la compañía y lo acordáis con el CM: crucero PMI-BIO, máx. 30–40 min, terminando ≥30 min antes del TOD.",
+    "Luz alta en cabina y fatiga como amenaza principal en el briefing TEM."
+   ],
+   "ci": "06:20",
+   "co": "14:00",
+   "duty": "7h40",
+   "fdp": "7h20",
+   "ground": [
+    "Cama a las 20:30 el día 26, oscuridad total.",
+    "Tras el vuelo: siesta de 90 min antes de las 16:00. Días 28 y 29 libres: duerme sin despertador.",
+    "Si notas microsueños al volante, para y duerme 15 min."
+   ],
+   "l": "r",
+   "max": "12h00",
+   "peaks": [
+    "04:50–06:30: despertar e inercia del sueño en PMI-BIO.",
+    "12:50–13:40: último sector BCN-PMI y aproximación a Palma.",
+    "14:00–14:30: conducción a casa."
+   ],
+   "sec": [
+    [
+     "PMI-BIO",
+     "VY3890",
+     "07:05",
+     "08:30"
+    ],
+    [
+     "BIO-PMI",
+     "VY3891",
+     "09:05",
+     "10:25"
+    ],
+    [
+     "PMI-BCN",
+     "VY3925",
+     "11:10",
+     "12:05"
+    ],
+    [
+     "BCN-PMI",
+     "VY3924",
+     "12:50",
+     "13:40"
+    ]
+   ],
+   "t": "fly",
+   "title": "PMI BIO PMI BCN PMI",
+   "why": "Cuarto despertar de madrugada seguido (24, 25, 26 y 27) y cuarto día de actividad consecutivo, con 4 sectores. Es el día de mayor deuda de sueño del bloque.",
+   "z": "0520Z–1300Z"
+  },
+  "2026-11-30": {
+   "air": [
+    "Café al despertar y otro ≈30 min antes del TOD de XRY-PMI (≈14:25L). Nada después de las 15:30.",
+    "Fatiga en el briefing TEM."
+   ],
+   "ci": "06:50",
+   "co": "15:15",
+   "duty": "8h25",
+   "fdp": "8h05",
+   "ground": [
+    "Cama a las 21:30 el día 29.",
+    "Tras el vuelo: siesta de 20 min antes de las 17:00."
+   ],
+   "l": "y",
+   "max": "12h00",
+   "peaks": [
+    "05:20–07:00: despertar e inercia del sueño.",
+    "13:20–14:55: último sector XRY-PMI."
+   ],
+   "sec": [
+    [
+     "PMI-VLC",
+     "VY3984",
+     "07:35",
+     "08:30"
+    ],
+    [
+     "VLC-PMI",
+     "VY3985",
+     "09:05",
+     "10:00"
+    ],
+    [
+     "PMI-XRY",
+     "VY3990",
+     "11:05",
+     "12:45"
+    ],
+    [
+     "XRY-PMI",
+     "VY3991",
+     "13:20",
+     "14:55"
+    ]
+   ],
+   "t": "fly",
+   "title": "PMI VLC PMI XRY PMI",
+   "why": "Firma a las 06:50 con 4 sectores tras dos días libres.",
+   "z": "0550Z–1415Z"
+  }
+ }
 }
