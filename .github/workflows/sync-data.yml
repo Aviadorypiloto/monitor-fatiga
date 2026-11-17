@@ -1,0 +1,24 @@
+name: Sincronizar datos desde Drive
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency: sync-data
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Descargar el último data-*.json de la carpeta pública de Drive
+        env:
+          FOLDER_ID: ${{ vars.DRIVE_FOLDER_ID }}
+        run: python3 .github/scripts/sync_drive.py "$FOLDER_ID" data.json
+      - name: Commit si hay cambios
+        run: |
+          if git diff --quiet -- data.json; then echo "Sin cambios"; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Roster actualizado (Drive)" -- data.json
+          git push
