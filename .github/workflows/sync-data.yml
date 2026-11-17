@@ -1,7 +1,7 @@
 name: Sincronizar datos desde Drive
 on:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "7,37 * * * *"
   workflow_dispatch:
 permissions:
   contents: write
@@ -13,7 +13,7 @@ jobs:
       - uses: actions/checkout@v4
       - name: Descargar el último data-*.json de la carpeta pública de Drive
         env:
-          FOLDER_ID: ${{ vars.DRIVE_FOLDER_ID }}
+          FOLDER_ID: 123idsVQiVM5p9wrIQo6Uff90_6FkPMPK
         run: python3 .github/scripts/sync_drive.py "$FOLDER_ID" data.json
       - name: Commit si hay cambios
         run: |
