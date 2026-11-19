@@ -1,59 +1,9 @@
 {
- "generated": "2026-11-17T20:54:30+01:00",
+ "generated": "2026-11-18T20:53:39+01:00",
  "publishedUntil": "2026-12-31",
  "source": "RosterBuster (sync eCrews)",
- "signature": "fac2d7f955531fa468738b66d8bc430ec8c96bd6",
+ "signature": "6446e002e61cd4993c397af7dfed31b972cd9cb7",
  "days": {
-  "2026-11-14": {
-   "air": [
-    "Café al despertar y otro ≈30 min antes del TOD de VLC-PMI (≈13:15L). Nada después de las 15:00.",
-    "Fatiga en el briefing TEM."
-   ],
-   "ci": "06:00",
-   "co": "14:05",
-   "duty": "8h05",
-   "fdp": "7h45",
-   "ground": [
-    "Cama a las 21:00 el día 13.",
-    "Tras el vuelo: siesta de 20 min antes de las 17:00. Cama a las 21:00: mañana firmas a las 06:00."
-   ],
-   "l": "y",
-   "max": "12h00",
-   "peaks": [
-    "04:30–06:30: despertar en WOCL.",
-    "12:50–13:45: último sector VLC-PMI."
-   ],
-   "sec": [
-    [
-     "PMI-AGP",
-     "VY3880",
-     "06:45",
-     "08:15"
-    ],
-    [
-     "AGP-PMI",
-     "VY3881",
-     "08:55",
-     "10:25"
-    ],
-    [
-     "PMI-VLC",
-     "VY3984",
-     "11:20",
-     "12:15"
-    ],
-    [
-     "VLC-PMI",
-     "VY3985",
-     "12:50",
-     "13:45"
-    ]
-   ],
-   "t": "fly",
-   "title": "PMI AGP PMI VLC PMI",
-   "why": "Firma a las 06:00 con 4 sectores. Primero de tres madrugones seguidos (14, 15 y 16).",
-   "z": "0500Z–1305Z"
-  },
   "2026-11-15": {
    "air": [
     "Café al despertar y otro ≈30 min antes del TOD de XRY-PMI (≈14:10L). Nada después de las 15:00.",
@@ -714,15 +664,25 @@
    "z": "0450Z–1230Z"
   },
   "2026-12-07": {
-   "t": "fly",
-   "l": "y",
-   "title": "PMI SVQ PMI GRX PMI",
+   "air": [
+    "Café al despertar y otro ≈13:30, 30 min antes del TOD de GRX-PMI. Nada después de las 14:30.",
+    "Fatiga en el briefing TEM."
+   ],
    "ci": "05:40",
    "co": "14:45",
-   "z": "0440Z–1345Z",
    "duty": "9h05",
    "fdp": "8h45",
+   "ground": [
+    "Cama a las 20:00 el día 6.",
+    "Tras el vuelo: siesta de 20 o 90 min, antes de las 17:00.",
+    "Cama a las 20:30: mañana firmas a las 05:55."
+   ],
+   "l": "y",
    "max": "11h30",
+   "peaks": [
+    "04:10–08:00: despertar en WOCL e inercia en PMI-SVQ.",
+    "13:10–14:25: último sector GRX-PMI."
+   ],
    "sec": [
     [
      "PMI-SVQ",
@@ -749,20 +709,10 @@
      "14:25"
     ]
    ],
+   "t": "fly",
+   "title": "PMI SVQ PMI GRX PMI",
    "why": "Early start (firma 05:40) con 4 sectores y 9h05 de actividad, tras dos días libres. Abre una racha de cuatro madrugones seguidos (7 al 10).",
-   "peaks": [
-    "04:10–08:00: despertar en WOCL e inercia en PMI-SVQ.",
-    "13:10–14:25: último sector GRX-PMI."
-   ],
-   "ground": [
-    "Cama a las 20:00 el día 6.",
-    "Tras el vuelo: siesta de 20 o 90 min, antes de las 17:00.",
-    "Cama a las 20:30: mañana firmas a las 05:55."
-   ],
-   "air": [
-    "Café al despertar y otro ≈13:30, 30 min antes del TOD de GRX-PMI. Nada después de las 14:30.",
-    "Fatiga en el briefing TEM."
-   ]
+   "z": "0440Z–1345Z"
   },
   "2026-12-08": {
    "air": [
@@ -944,15 +894,24 @@
    "z": "0925Z–1615Z"
   },
   "2026-12-14": {
-   "t": "fly",
-   "l": "y",
-   "title": "PMI VLC PMI",
+   "air": [
+    "Café al despertar. Segunda dosis, si hace falta, antes de la sesión LMTM (≈11:00). Nada después de las 14:00."
+   ],
    "ci": "06:30",
    "co": "13:40",
-   "z": "0530Z–1240Z",
    "duty": "7h10",
    "fdp": "3h10",
+   "ground": [
+    "Cama a las 21:00 el día 13.",
+    "Tras la actividad: siesta de 20 min antes de las 16:00, sin alargarla.",
+    "Cama a las 20:00: mañana imaginaria desde las 04:25."
+   ],
+   "l": "y",
    "max": "13h00",
+   "peaks": [
+    "05:00–08:10: inercia del sueño en PMI-VLC.",
+    "12:30–13:40: final de la sesión LMTM, bajón post-comida."
+   ],
    "sec": [
     [
      "PMI-VLC",
@@ -967,19 +926,10 @@
      "09:40"
     ]
    ],
+   "t": "fly",
+   "title": "PMI VLC PMI",
    "why": "Firma 06:30 (despertar ≈05:00) con 2 sectores y después tierra LMTM hasta las 13:40: 7h10 de actividad. Abre una racha de seis días seguidos con despertares tempranos (14 al 19); mañana imaginaria desde las 04:25.",
-   "peaks": [
-    "05:00–08:10: inercia del sueño en PMI-VLC.",
-    "12:30–13:40: final de la sesión LMTM, bajón post-comida."
-   ],
-   "ground": [
-    "Cama a las 21:00 el día 13.",
-    "Tras la actividad: siesta de 20 min antes de las 16:00, sin alargarla.",
-    "Cama a las 20:00: mañana imaginaria desde las 04:25."
-   ],
-   "air": [
-    "Café al despertar. Segunda dosis, si hace falta, antes de la sesión LMTM (≈11:00). Nada después de las 14:00."
-   ]
+   "z": "0530Z–1240Z"
   },
   "2026-12-15": {
    "air": [
