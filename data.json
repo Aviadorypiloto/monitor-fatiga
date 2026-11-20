@@ -1,59 +1,9 @@
 {
- "generated": "2026-11-18T20:53:39+01:00",
+ "generated": "2026-11-19T20:53:19+01:00",
  "publishedUntil": "2026-12-31",
  "source": "RosterBuster (sync eCrews)",
- "signature": "6446e002e61cd4993c397af7dfed31b972cd9cb7",
+ "signature": "684cdd0512f0f3cec55d55c4a427dd10ba2eb5fe",
  "days": {
-  "2026-11-15": {
-   "air": [
-    "Café al despertar y otro ≈30 min antes del TOD de XRY-PMI (≈14:10L). Nada después de las 15:00.",
-    "Descanso controlado solo si lo permite el procedimiento de la compañía y lo acordáis con el CM: crucero PMI-XRY, máx. 30–40 min, terminando ≥30 min antes del TOD."
-   ],
-   "ci": "06:00",
-   "co": "15:00",
-   "duty": "9h00",
-   "fdp": "8h40",
-   "ground": [
-    "Cama a las 21:00 el día 14.",
-    "Tras el vuelo: siesta de 20 min antes de las 17:00. Cena temprano y cama a las 20:30."
-   ],
-   "l": "y",
-   "max": "12h00",
-   "peaks": [
-    "04:30–06:30: despertar en WOCL.",
-    "13:13–14:40: último sector XRY-PMI."
-   ],
-   "sec": [
-    [
-     "PMI-SVQ",
-     "VY3980",
-     "06:39",
-     "08:20"
-    ],
-    [
-     "SVQ-PMI",
-     "VY3981",
-     "08:52",
-     "10:24"
-    ],
-    [
-     "PMI-XRY",
-     "VY3990",
-     "11:00",
-     "12:41"
-    ],
-    [
-     "XRY-PMI",
-     "VY3991",
-     "13:13",
-     "14:40"
-    ]
-   ],
-   "t": "fly",
-   "title": "PMI SVQ PMI XRY PMI",
-   "why": "Segundo madrugón seguido (firma 06:00) con 4 sectores y 9 h de actividad. Víspera de un día rojo (16, tercer madrugón).",
-   "z": "0500Z–1400Z"
-  },
   "2026-11-16": {
    "air": [
     "Café al despertar y otro ≈30 min antes del TOD de AGP-PMI (≈09:45L). Nada después de las 13:00.",
@@ -97,14 +47,14 @@
   },
   "2026-11-19": {
    "air": [
-    "Café al firmar y otro hacia las 21:45, antes de salir de BIO. Nada después.",
+    "Café al firmar y otro hacia las 21:45, antes de salir hacia BIO. Nada después.",
     "Descanso controlado solo si lo permite el procedimiento de la compañía y lo acordáis con el CM: crucero PMI-GRX o PMI-BIO, máx. 30–40 min, terminando ≥30 min antes del TOD."
    ],
    "ci": "16:15",
-   "co": "00:25",
+   "co": "00:38",
    "coNext": true,
-   "duty": "8h10",
-   "fdp": "7h50",
+   "duty": "8h23",
+   "fdp": "8h03",
    "ground": [
     "Duerme hasta tarde. Siesta profiláctica de 60–90 min entre las 13:00 y las 14:30.",
     "Al llegar, luz tenue y a la cama sin pantallas."
@@ -113,39 +63,39 @@
    "max": "10h30",
    "peaks": [
     "16:00–17:00: bajón de media tarde.",
-    "22:50–00:05: último sector BIO-PMI y aproximación a Palma.",
-    "00:25–01:00: conducción."
+    "22:58–00:18: último sector BIO-PMI y aproximación a Palma.",
+    "00:38–01:15: conducción a casa."
    ],
    "sec": [
     [
      "PMI-GRX",
      "VY3962",
      "17:00",
-     "18:25"
+     "18:34"
     ],
     [
      "GRX-PMI",
      "VY3963",
-     "19:00",
-     "20:15"
+     "19:09",
+     "20:22"
     ],
     [
      "PMI-BIO",
      "VY3894",
-     "20:50",
-     "22:10"
+     "20:57",
+     "22:23"
     ],
     [
      "BIO-PMI",
      "VY3895",
-     "22:50",
-     "00:05"
+     "22:58",
+     "00:18"
     ]
    ],
    "t": "fly",
    "title": "PMI GRX PMI BIO PMI",
-   "why": "Late finish (fin 00:25) con 4 sectores, aislado tras dos días libres.",
-   "z": "1515Z–2325Z"
+   "why": "Late finish (fin 00:38) con 4 sectores, aislado tras dos días libres. FDP 8h03 de 10h30 (77 %). Hoy se retrasó el horario 13 min.",
+   "z": "1515Z–2338Z"
   },
   "2026-11-20": {
    "air": [
@@ -197,7 +147,7 @@
    ],
    "t": "fly",
    "title": "PMI SCQ PMI BIO PMI",
-   "why": "Segundo late finish seguido (fin 00:25) con 4 sectores y 9h15 de actividad.",
+   "why": "Segundo late finish seguido (fin 00:25) con 4 sectores y 9h15 de actividad. Descanso previo 14h32 desde el fin de las 00:38: cumple el mínimo.",
    "z": "1410Z–2325Z"
   },
   "2026-11-21": {
