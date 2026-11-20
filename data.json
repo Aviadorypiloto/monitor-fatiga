@@ -1,50 +1,9 @@
 {
- "generated": "2026-11-19T20:53:19+01:00",
+ "generated": "2026-11-20T20:53:24+01:00",
  "publishedUntil": "2026-12-31",
  "source": "RosterBuster (sync eCrews)",
- "signature": "684cdd0512f0f3cec55d55c4a427dd10ba2eb5fe",
+ "signature": "8e3437df1c0e698e424bc8d0b19b3be2a7f869bc",
  "days": {
-  "2026-11-16": {
-   "air": [
-    "Café al despertar y otro ≈30 min antes del TOD de AGP-PMI (≈09:45L). Nada después de las 13:00.",
-    "Descanso controlado solo si lo permite el procedimiento de la compañía y lo acordáis con el CM: crucero AGP-PMI, máx. 30–40 min, terminando ≥30 min antes del TOD.",
-    "Fatiga como amenaza principal en el briefing TEM."
-   ],
-   "ci": "06:00",
-   "co": "10:36",
-   "duty": "4h36",
-   "fdp": "4h16",
-   "ground": [
-    "Cama a las 20:30 el día 15, oscuridad total.",
-    "Tras el vuelo: siesta de 90 min antes de las 14:00. Días 17 y 18 libres: recupera sueño sin despertador.",
-    "Si notas microsueños al volante, para y duerme 15 min."
-   ],
-   "l": "r",
-   "max": "13h00",
-   "peaks": [
-    "04:30–06:30: despertar en WOCL.",
-    "08:45–10:16: regreso AGP-PMI y aproximación a Palma.",
-    "10:36–11:20: conducción a casa."
-   ],
-   "sec": [
-    [
-     "PMI-AGP",
-     "VY3880",
-     "06:32",
-     "07:56"
-    ],
-    [
-     "AGP-PMI",
-     "VY3881",
-     "08:45",
-     "10:16"
-    ]
-   ],
-   "t": "fly",
-   "title": "PMI AGP PMI",
-   "why": "Tercer despertar de madrugada seguido (firmas a las 06:00 el 14, 15 y 16). Aunque solo hay 2 sectores, la deuda de sueño acumulada es alta.",
-   "z": "0500Z–0936Z"
-  },
   "2026-11-19": {
    "air": [
     "Café al firmar y otro hacia las 21:45, antes de salir hacia BIO. Nada después.",
@@ -104,10 +63,10 @@
     "Luz alta en cabina y fatiga en el briefing TEM."
    ],
    "ci": "15:10",
-   "co": "00:25",
+   "co": "00:28",
    "coNext": true,
-   "duty": "9h15",
-   "fdp": "8h55",
+   "duty": "9h18",
+   "fdp": "8h58",
    "ground": [
     "Duerme hasta las 09:00–09:30. Siesta profiláctica de 60–90 min entre las 12:30 y las 13:45.",
     "Oscuridad total y tapones al acostarte."
@@ -116,39 +75,39 @@
    "max": "11h00",
    "peaks": [
     "15:30–17:00: bajón de media tarde en PMI-SCQ.",
-    "22:50–00:05: último sector BIO-PMI.",
-    "00:25–01:00: conducción."
+    "22:53–00:08: último sector BIO-PMI.",
+    "00:28–01:00: conducción."
    ],
    "sec": [
     [
      "PMI-SCQ",
      "VY3976",
-     "15:55",
-     "17:50"
+     "15:50",
+     "18:03"
     ],
     [
      "SCQ-PMI",
      "VY3977",
-     "18:30",
-     "20:15"
+     "18:38",
+     "20:17"
     ],
     [
      "PMI-BIO",
      "VY3894",
-     "20:50",
-     "22:10"
+     "20:52",
+     "22:18"
     ],
     [
      "BIO-PMI",
      "VY3895",
-     "22:50",
-     "00:05"
+     "22:53",
+     "00:08"
     ]
    ],
    "t": "fly",
    "title": "PMI SCQ PMI BIO PMI",
-   "why": "Segundo late finish seguido (fin 00:25) con 4 sectores y 9h15 de actividad. Descanso previo 14h32 desde el fin de las 00:38: cumple el mínimo.",
-   "z": "1410Z–2325Z"
+   "why": "Segundo late finish seguido (fin 00:28) con 4 sectores y 9h18 de actividad. Descanso previo 14h32 desde el fin de las 00:38: cumple el mínimo.",
+   "z": "1410Z–2328Z"
   },
   "2026-11-21": {
    "air": [],
@@ -165,7 +124,7 @@
    ],
    "t": "ground",
    "title": "LMPB - LMRM",
-   "why": "Actividad en tierra corta (15:00–16:15) tras dos late finish. Carga baja.",
+   "why": "Actividad en tierra corta (15:00–16:15) tras dos late finish. Descanso previo 14h32 desde las 00:28: cumple. Carga baja.",
    "z": "1400Z–1515Z"
   },
   "2026-11-24": {
